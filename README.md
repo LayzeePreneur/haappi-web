@@ -1,2 +1,2 @@
 # haappi-web
-Progressive web app of Haappi App, generated using flutter web   ; )
+Progressive web app of [Haappi App](https://github.com/LayzeePreneur/Haappi) , generated using flutter web   ; )
